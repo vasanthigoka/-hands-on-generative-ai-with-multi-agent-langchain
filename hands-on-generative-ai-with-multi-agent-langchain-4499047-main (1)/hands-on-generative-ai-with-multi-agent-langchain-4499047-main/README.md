@@ -1,7 +1,4 @@
 # Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications
-This is the repository for the LinkedIn Learning course `Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications`. The full course is available from [LinkedIn Learning][lil-course-url].
-
-![lil-thumbnail-url]
 
 As a developer in today’s rapidly evolving and constantly surprising AI landscape, it’s become critical to know how to leverage multiagent simulations and generative models. This course is designed to meet the burgeoning demand for AI professionals skilled in these domains. Join instructor Nayan Saxena for a comprehensive exploration of the process of building and running dynamic and interactive multiagent simulations using LangChain, the popular AI-powered framework. Get the skills you need to start building your first generative agents, equipping them with tools, and modeling complex generative agent scenarios. Along the way, test out your new technical know-how in the exercise challenges at the end of each section.
 
