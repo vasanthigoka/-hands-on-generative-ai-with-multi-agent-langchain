@@ -1,7 +1,5 @@
 # Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications
-This is the repository for the LinkedIn Learning course `Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![lil-thumbnail-url]
 
 As a developer in today’s rapidly evolving and constantly surprising AI landscape, it’s become critical to know how to leverage multiagent simulations and generative models. This course is designed to meet the burgeoning demand for AI professionals skilled in these domains. Join instructor Nayan Saxena for a comprehensive exploration of the process of building and running dynamic and interactive multiagent simulations using LangChain, the popular AI-powered framework. Get the skills you need to start building your first generative agents, equipping them with tools, and modeling complex generative agent scenarios. Along the way, test out your new technical know-how in the exercise challenges at the end of each section.
 
@@ -24,18 +22,4 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-### Instructor
-
-Nayan Saxena
-
-Deep Learning Expert
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nayan-saxena).
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/hands-on-generative-ai-with-multi-agent-langchain-building-real-world-applications
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHSXBy92JaVXA/learning-public-crop_675_1200/0/1708729222446?e=2147483647&v=beta&t=mkauYhfr8LXzvo4B_ecX4hr6fP8cynnXkaDTlQMgulM
 
