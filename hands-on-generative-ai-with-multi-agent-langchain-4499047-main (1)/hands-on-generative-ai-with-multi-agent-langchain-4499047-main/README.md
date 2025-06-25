@@ -21,18 +21,3 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-### Instructor
-
-Nayan Saxena
-
-Deep Learning Expert
-
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/nayan-saxena).
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/hands-on-generative-ai-with-multi-agent-langchain-building-real-world-applications
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHSXBy92JaVXA/learning-public-crop_675_1200/0/1708729222446?e=2147483647&v=beta&t=mkauYhfr8LXzvo4B_ecX4hr6fP8cynnXkaDTlQMgulM
-
